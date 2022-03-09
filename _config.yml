@@ -49,13 +49,14 @@ source: .
 twitter_url:
 facebook_url: https://www.facebook.com/
 googleplus_url:
-instagram_url:
-linkedin_url:
+instagram_url: https://www.instagram.com/
+linkedin_url: https://www.linkedin.com/
 github_url:
 stackoverflow_url:
 pinterest_url:
 slack_url:
 dribbble_url:
+youtube_url: https://www.youtube.com/
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
