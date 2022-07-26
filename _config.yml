@@ -59,7 +59,7 @@ dribbble_url:
 youtube_url: https://www.youtube.com/channel/UCN8W7aKVvmD6jJ7db62mY1w
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: G-FGH2DNL4BT
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
